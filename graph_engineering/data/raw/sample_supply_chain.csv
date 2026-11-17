@@ -1,0 +1,4 @@
+entity_id,entity_type,name,notes
+ demo_steel,Supplier,Demo Steel Supplier,Fictional sample entity
+ demo_factory,Factory,Demo Factory,Fictional sample entity
+ demo_retailer,Retailer,Demo Retailer,Fictional sample entity
