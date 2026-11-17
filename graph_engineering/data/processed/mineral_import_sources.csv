@@ -1,0 +1,24 @@
+﻿Mineral,Importing_Country,Source_Country,Source_Category,Source_Type,Import_Share_Percent,Net_Import_Reliance_2025,NIR_Figure3,Critical_Mineral_Flag,Data_Period
+Cobalt,United States,,Other,aggregate_other,30.0,79,79.0,Y,2021-2024
+Cobalt,United States,Canada,Canada,country,14.0,79,79.0,Y,2021-2024
+Cobalt,United States,Finland,Finland,country,16.0,79,79.0,Y,2021-2024
+Cobalt,United States,Japan,Japan,country,14.0,79,79.0,Y,2021-2024
+Cobalt,United States,Norway,Norway,country,26.0,79,79.0,Y,2021-2024
+Graphite,United States,,Other,aggregate_other,16.0,100,100.0,N,2021-2024
+Graphite,United States,Canada,Canada,country,13.0,100,100.0,N,2021-2024
+Graphite,United States,China,China,country,46.0,100,100.0,N,2021-2024
+Graphite,United States,Mexico,Mexico,country,12.0,100,100.0,N,2021-2024
+Graphite,United States,Mozambique,Mozambique,country,13.0,100,100.0,N,2021-2024
+Lithium,United States,,Other,aggregate_other,3.0,>50,50.0,Y,2021-2024
+Lithium,United States,Argentina,Argentina,country,43.0,>50,50.0,Y,2021-2024
+Lithium,United States,Chile,Chile,country,54.0,>50,50.0,Y,2021-2024
+Manganese,United States,,Other,aggregate_other,35.0,100,100.0,Y,2021-2024
+Manganese,United States,Australia,Australia,country,10.0,100,100.0,Y,2021-2024
+Manganese,United States,Gabon,Gabon,country,23.0,100,100.0,Y,2021-2024
+Manganese,United States,Malaysia,Malaysia,country,11.0,100,100.0,Y,2021-2024
+Manganese,United States,South Africa,South Africa,country,21.0,100,100.0,Y,2021-2024
+Nickel,United States,,Other,aggregate_other,30.0,41,41.0,Y,2021-2024
+Nickel,United States,Australia,Australia,country,8.0,41,41.0,Y,2021-2024
+Nickel,United States,Brazil,Brazil,country,7.0,41,41.0,Y,2021-2024
+Nickel,United States,Canada,Canada,country,44.0,41,41.0,Y,2021-2024
+Nickel,United States,Norway,Norway,country,11.0,41,41.0,Y,2021-2024
