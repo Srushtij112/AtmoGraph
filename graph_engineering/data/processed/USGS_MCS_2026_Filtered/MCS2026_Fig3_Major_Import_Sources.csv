@@ -1,0 +1,24 @@
+﻿Source,Commodity,Import_Source_2021_24,Percent,NIR,Critical_Mineral
+MCS2026,Cobalt,Norway,26.0,79.0,Y
+MCS2026,Cobalt,Finland,16.0,79.0,Y
+MCS2026,Cobalt,Canada,14.0,79.0,Y
+MCS2026,Cobalt,Japan,14.0,79.0,Y
+MCS2026,Cobalt,Other,30.0,79.0,Y
+MCS2026,Lithium,Chile,54.0,50.0,Y
+MCS2026,Lithium,Argentina,43.0,50.0,Y
+MCS2026,Lithium,Other,3.0,50.0,Y
+MCS2026,Manganese,Gabon,23.0,100.0,Y
+MCS2026,Manganese,South Africa,21.0,100.0,Y
+MCS2026,Manganese,Malaysia,11.0,100.0,Y
+MCS2026,Manganese,Australia,10.0,100.0,Y
+MCS2026,Manganese,Other,35.0,100.0,Y
+MCS2026,Nickel,Canada,44.0,41.0,Y
+MCS2026,Nickel,Norway,11.0,41.0,Y
+MCS2026,Nickel,Australia,8.0,41.0,Y
+MCS2026,Nickel,Brazil,7.0,41.0,Y
+MCS2026,Nickel,Other,30.0,41.0,Y
+MCS2026,"Graphite, natural",China,46.0,100.0,N
+MCS2026,"Graphite, natural",Canada,13.0,100.0,N
+MCS2026,"Graphite, natural",Mozambique,13.0,100.0,N
+MCS2026,"Graphite, natural",Mexico,12.0,100.0,N
+MCS2026,"Graphite, natural",Other,16.0,100.0,N

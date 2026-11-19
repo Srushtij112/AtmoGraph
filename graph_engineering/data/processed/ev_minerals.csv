@@ -1,0 +1,6 @@
+﻿Mineral_Group,Source,Year,Units,Critical_mineral,Primary_prod,Secondary_prod,Prod_notes,Apparent_Consumption,Consumption_Notes,Net_Import_Reliance,Primary_import_sources_2021-24,Import_source_notes,Leading_source_country,Leading_country_prod,Leading_source_precent_world,World_total_prod,World_prod_notes
+Cobalt,MCS2026,2025_estimated,metric tons,Cobalt,300,2000,,9600,,79,Norway,,Congo (Kinshasa),230000.0,74,310000,
+Graphite,MCS2026,2025_estimated,metric tons,Graphite (natural),0,0,,71000,,100,China,Includes Hong Kong.,China,1400000.0,78,1800000,
+Lithium,MCS2026,2025_estimated,metric tons,Lithium,W,,,W,,>50,Chile,,Australia,92000.0,32,290000,Excludes U.S. production.
+Manganese,MCS2026,2025_estimated,metric tons,Manganese,0,,,640000,,100,Gabon,,South Africa,7600000.0,37,20000000,
+Nickel,MCS2026,2025_estimated,metric tons,Nickel,10000,W,,220000,Nickel in primary metal and secondary scrap. ,41,Canada,,Indonesia,2600000.0,67,3900000,
